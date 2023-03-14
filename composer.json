@@ -1,0 +1,19 @@
+{
+    "name": "merummer/logger",
+    "description": "A Library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Merummer\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Melissa Maria Rummer",
+            "email": "mrummer@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
